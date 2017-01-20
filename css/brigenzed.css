@@ -1,0 +1,26 @@
+section.section-people .row .col-sm-2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.col-sm-2 .profile-pic {
+  padding-top: 100%;
+  background-position: center center;
+  background-size: cover;
+
+  -webkit-filter: contrast(60%);
+     -moz-filter: contrast(60%);
+      -ms-filter: contrast(60%);
+          filter: contrast(60%);
+
+  -webkit-transition: all .3s ease;
+     -moz-transition: all .3s ease;
+          transition: all .3s ease;
+}
+
+section.section-people .row .col-sm-2 h4 {
+  text-align: center;
+  font-weight: 400;
+  margin: .5em 0 0;
+  font-size: 1em;
+}
