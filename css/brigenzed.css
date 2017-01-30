@@ -24,3 +24,7 @@ section.section-people .row .col-sm-2 h4 {
   margin: .5em 0 0;
   font-size: 1em;
 }
+
+section.section-gifts .retailer-list .row .retailer-thumbnail {
+  display: block;
+}
